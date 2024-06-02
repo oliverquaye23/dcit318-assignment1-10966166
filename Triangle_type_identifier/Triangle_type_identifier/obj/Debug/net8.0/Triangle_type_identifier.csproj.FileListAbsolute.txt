@@ -1,0 +1,14 @@
+C:\Users\olive\Desktop\assignment\Triangle_type_identifier\Triangle_type_identifier\bin\Debug\net8.0\Triangle_type_identifier.exe
+C:\Users\olive\Desktop\assignment\Triangle_type_identifier\Triangle_type_identifier\bin\Debug\net8.0\Triangle_type_identifier.deps.json
+C:\Users\olive\Desktop\assignment\Triangle_type_identifier\Triangle_type_identifier\bin\Debug\net8.0\Triangle_type_identifier.runtimeconfig.json
+C:\Users\olive\Desktop\assignment\Triangle_type_identifier\Triangle_type_identifier\bin\Debug\net8.0\Triangle_type_identifier.dll
+C:\Users\olive\Desktop\assignment\Triangle_type_identifier\Triangle_type_identifier\bin\Debug\net8.0\Triangle_type_identifier.pdb
+C:\Users\olive\Desktop\assignment\Triangle_type_identifier\Triangle_type_identifier\obj\Debug\net8.0\Triangle_type_identifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Desktop\assignment\Triangle_type_identifier\Triangle_type_identifier\obj\Debug\net8.0\Triangle_type_identifier.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\assignment\Triangle_type_identifier\Triangle_type_identifier\obj\Debug\net8.0\Triangle_type_identifier.AssemblyInfo.cs
+C:\Users\olive\Desktop\assignment\Triangle_type_identifier\Triangle_type_identifier\obj\Debug\net8.0\Triangle_type_identifier.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\assignment\Triangle_type_identifier\Triangle_type_identifier\obj\Debug\net8.0\Triangle_type_identifier.dll
+C:\Users\olive\Desktop\assignment\Triangle_type_identifier\Triangle_type_identifier\obj\Debug\net8.0\refint\Triangle_type_identifier.dll
+C:\Users\olive\Desktop\assignment\Triangle_type_identifier\Triangle_type_identifier\obj\Debug\net8.0\Triangle_type_identifier.pdb
+C:\Users\olive\Desktop\assignment\Triangle_type_identifier\Triangle_type_identifier\obj\Debug\net8.0\Triangle_type_identifier.genruntimeconfig.cache
+C:\Users\olive\Desktop\assignment\Triangle_type_identifier\Triangle_type_identifier\obj\Debug\net8.0\ref\Triangle_type_identifier.dll
