@@ -1,0 +1,14 @@
+C:\Users\olive\Desktop\assignment\Grade_Calculator\Grade_Calculator\bin\Debug\net8.0\Grade_Calculator.exe
+C:\Users\olive\Desktop\assignment\Grade_Calculator\Grade_Calculator\bin\Debug\net8.0\Grade_Calculator.deps.json
+C:\Users\olive\Desktop\assignment\Grade_Calculator\Grade_Calculator\bin\Debug\net8.0\Grade_Calculator.runtimeconfig.json
+C:\Users\olive\Desktop\assignment\Grade_Calculator\Grade_Calculator\bin\Debug\net8.0\Grade_Calculator.dll
+C:\Users\olive\Desktop\assignment\Grade_Calculator\Grade_Calculator\bin\Debug\net8.0\Grade_Calculator.pdb
+C:\Users\olive\Desktop\assignment\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\Grade_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Desktop\assignment\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\Grade_Calculator.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\assignment\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\Grade_Calculator.AssemblyInfo.cs
+C:\Users\olive\Desktop\assignment\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\Grade_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\assignment\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\Grade_Calculator.dll
+C:\Users\olive\Desktop\assignment\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\refint\Grade_Calculator.dll
+C:\Users\olive\Desktop\assignment\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\Grade_Calculator.pdb
+C:\Users\olive\Desktop\assignment\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\Grade_Calculator.genruntimeconfig.cache
+C:\Users\olive\Desktop\assignment\Grade_Calculator\Grade_Calculator\obj\Debug\net8.0\ref\Grade_Calculator.dll
